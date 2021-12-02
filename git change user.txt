@@ -1,0 +1,12 @@
+
+
+
+ su - eali
+ 
+ cd /appsd/pilot.
+ 
+ git status
+ 
+ git stash 
+ 
+ 
