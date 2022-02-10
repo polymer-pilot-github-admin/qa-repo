@@ -1,0 +1,22 @@
+Text without pii to test aprove hhgjhg jkgh jhg 
+Slack Enterprise
+
+https://yourinstance.enterprise.slack.com/
+User: ejazk--polymerdevgrid.net
+Pass: pd11!!pd11!!
+
+Installation URL for Production:
+https://app.polymerhq.io/slackeg/auth/install
+
+
+test 123
+
+
+Error Reproduce Steps:
+1) Install slack and login with slack.
+2) Install slack-eg in single tenant manner and run import user cmd.
+3) Uninstall 1 or more workspaces of slack eg from hub.
+4) Reinstall slack-eg from apps page and run import users cmd.
+5) Logout from slack account and try to login with slack-eg 
+
+				This Error will becmes
